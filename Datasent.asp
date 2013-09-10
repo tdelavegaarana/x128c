@@ -2,7 +2,7 @@
     'data to be filled
    dim emailAdress
     dim experimentCode
-    emailAdress = "fernandoblanco@deusto.es"
+    emailAdress = ""
     experimentCode ="x128c"
     domain = "deusto.es"
 
